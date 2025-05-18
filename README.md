@@ -18,7 +18,7 @@ html, React, Next.js And javaScripts Applications
 
 **NextHtml Install Via CDN Link**
 ```
-https://cdn.jsdelivr.net/gh/ikrar24/nexthtml-cdn@1.0.0/NextHtml.js
+https://cdn.jsdelivr.net/gh/ikrar24/nexthtml-cdn@1.0.1/NextHtml.js
 ```
 
 **NextHtml Install in Node js**
